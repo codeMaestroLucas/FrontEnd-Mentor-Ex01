@@ -5,18 +5,18 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of Contents
 
 - [Screenshots](#screenshots)
-- [Author](#author)6
+- [Author](#author)
 
 ## Screenshots
 
 - Project 375px:
     ![Img-375px](./prints/iPhone-XS-X-375x812.png)
 - Project 1440px:
-    ![Img-1440px](./prints/Medium-Screen-1440x800.png)
+    ![Img-1440px](./prints/Laptop-1-1440x900.png)
 
 ## Author
 
-- Website - [Lucas Samuel Lemos Rajão](https://www.your-site.com)
+- LinkedIn - [Lucas Samuel Lemos Rajão](https://www.linkedin.com/in/lucas-samuel-64846a253/)
 - Frontend Mentor - [@codeMaestroLucas](https://github.com/codeMaestroLucas)
 
 This is my irt time making the FE Mentor Challenge.
