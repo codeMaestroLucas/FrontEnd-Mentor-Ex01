@@ -16,7 +16,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Website - [Lucas Samuel Lemos Rajão](https://www.your-site.com)
+- LinkedIn - [Lucas Samuel Lemos Rajão](https://www.linkedin.com/in/lucas-samuel-64846a253/)
 - Frontend Mentor - [@codeMaestroLucas](https://github.com/codeMaestroLucas)
 
 This is my irt time making the FE Mentor Challenge.
