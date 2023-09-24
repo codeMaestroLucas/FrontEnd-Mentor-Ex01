@@ -5,7 +5,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of Contents
 
 - [Screenshots](#screenshots)
-- [Author](#author)6
+- [Author](#author)
 
 ## Screenshots
 
